@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Confession to Dags</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+        .confession {
+            border: 2px solid #ff6347;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff0f5;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Confession</h1>
+    <div class="confession">
+        <p>Dags, I have something important to tell you...</p>
+        <p>Matagal na kitang gusto. I've been keeping this to myself for a while now, but I think it's time you knew. You're someone who has been on my mind a lot lately, and I can't stop thinking about you.</p>
+        <p>The truth is, I’m in love with you. I just wanted to be honest about how I feel, no matter what happens next.</p>
+    </div>
+</body>
+</html>
